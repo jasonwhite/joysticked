@@ -1,0 +1,8 @@
+{
+	"name": "joystick",
+	"description": "Linux joystick input.",
+	"copyright": "Copyright © 2014, Jason White",
+	"authors": ["Jason White"],
+	"dependencies": {
+	}
+}
